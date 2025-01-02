@@ -9,7 +9,7 @@ if (args.length === 0) {
   console.log(`Hello, ${name}!👋`);
 } else {
   console.error(
-    "Sorry, there are too many arguments😢\nCould you limit it to just one?\nUsage: hello <name>",
+    "Sorry, there are too many arguments😢\nCould you limit it to just one?\nUsage: npx just-hello <name>",
   );
   process.exit(1);
 }
