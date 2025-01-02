@@ -1,10 +1,10 @@
 # just-hello-cli
 
+This is a package to hello.
+
 ```
 Hello, buddy!👋
 ```
-
-This is a package to hello.
 
 ## Usage
 
