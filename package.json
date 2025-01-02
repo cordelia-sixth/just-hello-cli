@@ -1,0 +1,14 @@
+{
+  "name": "just-hello-cli",
+  "version": "1.0.0",
+  "description": "A package to hello.",
+  "bin": {
+    "hello": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "README.md"
+  ],
+  "author": "cordelia-sixth",
+  "license": "MIT"
+}
