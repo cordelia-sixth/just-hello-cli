@@ -1,6 +1,6 @@
 {
   "name": "just-hello-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package to hello.",
   "keywords": [
     "cli"
@@ -10,7 +10,7 @@
     "url": "https://github.com/cordelia-sixth/just-hello-cli"
   },
   "bin": {
-    "hello": "cli.js"
+    "just-hello": "cli.js"
   },
   "files": [
     "cli.js",
