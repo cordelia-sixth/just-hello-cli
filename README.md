@@ -9,5 +9,5 @@ This is a package to hello.
 ## Usage
 
 ```
-npx hello john
+npx just-hello john
 ```
